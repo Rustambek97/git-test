@@ -3,3 +3,6 @@ jamoaviy ishlash
 
 # add h1
 hello world deb yozdim
+
+# add p
+lorem10
