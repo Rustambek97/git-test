@@ -12,3 +12,5 @@ lorem10
 h1
 
 # add p lorem in about.html
+
+# loremingni o'chirdim
