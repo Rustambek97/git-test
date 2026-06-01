@@ -1,2 +1,5 @@
 # git-test
 jamoaviy ishlash
+
+# add h1
+hello world deb yozdim
