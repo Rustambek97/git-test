@@ -1,0 +1,2 @@
+# git-test
+jamoaviy ishlash
